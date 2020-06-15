@@ -19,6 +19,9 @@ This repository contains implementations of single step methods and multi strp m
   2. Forward Time Central Space
   3. Lax-Friedrichs Method
   4. Leap-Frog Method
+  
+* Method for solving variable coefficient advection equation
+  1. Wendoff box scheme
 
 ## Repository Structure
 * [Solving Partial Differential Equations](https://github.com/pankhuri22/Partial-Differential-Equations-/tree/master/Solving%20Partial%20Differential%20Equations) contains :
