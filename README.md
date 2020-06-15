@@ -36,7 +36,7 @@ This repository contains implementations of single step methods and multi strp m
   
 * [Results_SDE.pdf](https://github.com/pankhuri22/Partial-Differential-Equations-/blob/master/Results_SDE.pdf) contains the results of the scripts in [Solving Partial Differential Equations](https://github.com/pankhuri22/Partial-Differential-Equations-/tree/master/Solving%20Partial%20Differential%20Equations)
 
-* [Results_ADVE.pdf]() contains the results of scripts in [Solving Advection Equation](https://github.com/pankhuri22/Partial-Differential-Equations-/tree/master/Solving%20Advection%20Equation)
+* [Results_ADVE.pdf](https://github.com/pankhuri22/Partial-Differential-Equations-/blob/master/Results_ADVE.pdf) contains the results of scripts in [Solving Advection Equation](https://github.com/pankhuri22/Partial-Differential-Equations-/tree/master/Solving%20Advection%20Equation)
 
 ## References
 1. Finite Difference Schemes and Partial Differential Equations (Second Edition) by John Strikwerda
